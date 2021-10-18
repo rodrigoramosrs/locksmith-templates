@@ -1,4 +1,4 @@
-title: Github Token
+title: Github Token_second_step
 url: https://developer.github.com/v3/
 details: 'Check scope of your api token in "X-OAuth-Scopes:"'
 commands:
